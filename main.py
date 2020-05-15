@@ -8,8 +8,8 @@
 code_word  以编码为key，单词list为value的dict，一个编码有多个单词
 """
 code_word={}
-cilin_file='/home/hxy/task2-cilin/new_cilin.txt'
-res_file='/home/hxy/task2-cilin/result.txt'
+cilin_file='./task2-cilin/new_cilin.txt'
+res_file='./task2-cilin/result.txt'
 word_second_no={"Aa","Ac","Ad","Ae","Af","Ag","Ai","Aj","Ak","Al","Am","Ba","Bb","Bc"}
 
 pairs=[]
